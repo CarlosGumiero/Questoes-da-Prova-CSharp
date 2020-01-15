@@ -1,0 +1,11 @@
+C:\Users\CLGS\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.csprojAssemblyReference.cache
+C:\Users\CLGS\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.AssemblyInfoInputs.cache
+C:\Users\CLGS\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.AssemblyInfo.cs
+C:\Users\CLGS\source\repos\ProvaPOO\ProvaPOO\bin\Debug\netcoreapp3.1\ProvaPOO.exe
+C:\Users\CLGS\source\repos\ProvaPOO\ProvaPOO\bin\Debug\netcoreapp3.1\ProvaPOO.deps.json
+C:\Users\CLGS\source\repos\ProvaPOO\ProvaPOO\bin\Debug\netcoreapp3.1\ProvaPOO.runtimeconfig.json
+C:\Users\CLGS\source\repos\ProvaPOO\ProvaPOO\bin\Debug\netcoreapp3.1\ProvaPOO.runtimeconfig.dev.json
+C:\Users\CLGS\source\repos\ProvaPOO\ProvaPOO\bin\Debug\netcoreapp3.1\ProvaPOO.dll
+C:\Users\CLGS\source\repos\ProvaPOO\ProvaPOO\bin\Debug\netcoreapp3.1\ProvaPOO.pdb
+C:\Users\CLGS\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.dll
+C:\Users\CLGS\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.pdb
